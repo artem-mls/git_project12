@@ -10,4 +10,5 @@ def x2(x):
     :param x: целое или дробное число
     :return: квадрат числа
     '''
-    return x * x
+    res = x * x
+    return res
